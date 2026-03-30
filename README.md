@@ -1,6 +1,8 @@
 # 系统动力学稳定性理论与存在补丁主义 
 # System Dynamics Stability Theory & Existential Patchism (EP Theory)
 
+自由不是一种状态，而是一种支出。
+存在不是一个结果，而是一场补丁的接力。
 [![DOI: 10.5281/zenodo.19324760](https://img.shields.io/badge/DOI-10.5281/zenodo.19324760-blue.svg)](https://doi.org/10.5281/zenodo.19324760)
 [![DOI: 10.5281/zenodo.19324853](https://img.shields.io/badge/DOI-10.5281/zenodo.19324853-green.svg)](https://doi.org/10.5281/zenodo.19324853)
 

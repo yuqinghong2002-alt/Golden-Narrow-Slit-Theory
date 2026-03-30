@@ -1,3 +1,91 @@
+# 系统动力学稳定性理论与存在补丁主义 
+# System Dynamics Stability Theory & Existential Patchism (EP Theory)
+
+[![DOI: 10.5281/zenodo.19324760](https://img.shields.io/badge/DOI-10.5281/zenodo.19324760-blue.svg)](https://doi.org/10.5281/zenodo.19324760)
+[![DOI: 10.5281/zenodo.19324853](https://img.shields.io/badge/DOI-10.5281/zenodo.19324853-green.svg)](https://doi.org/10.5281/zenodo.19324853)
+
+# Golden-Narrow-Slit-Theory
+### System Dynamics Stability Theory (SDMA) & Existential Patchism (EP Theory)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19324760.svg)](https://doi.org/10.5281/zenodo.19324760)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+> **"Existing is not about reaching a perfect end, but about making the line called 'existence' a second more resilient before collapse."**
+
+---
+
+## 📖 Overview
+This repository contains the foundational documents and theoretical framework for **System Dynamics Stability Theory (SDMA)** and **Existential Patchism (EP Theory)**, authored by **Yu Qinghong**.
+
+This framework bridges the gap between hard-system dynamics and metaphysical ontology, providing a mathematical and philosophical approach to how complex systems maintain stability through the **"Cost-Patch Mechanism"**.
+
+### Core Postulates
+1. **Information Delay:** Local contingency arising from the limit of the speed of light.
+2. **Ontological Delay:** Evolutionary drive derived from the Second Law of Thermodynamics.
+3. **Patch Mechanism:** Macro-necessity formed through dynamic structural/functional compensation.
+
+---
+
+## 📈 Key Mathematical Indicators
+
+The theory quantifies systemic stability through the **Golden Slit (黄金窄缝)** condition.
+
+### 1. Existence Pressure Rate ($\Omega$)
+The pressure exerted by the environment and internal entropy:
+$$\Omega = \frac{\Delta D}{T_{delay}}$$
+*(Where $\Delta D$ is disturbance intensity and $T$ is information delay)*
+
+### 2. Sovereignty Generation Coefficient ($\eta$)
+The efficiency of the system in converting metabolic cost into stability:
+$$C = \eta \Omega$$
+*(Where $C$ is the metabolic cost paid by the system)*
+
+### 3. Stability Monitoring Index ($\rho$)
+The system remains in the **"Golden Slit"** when:
+$$\rho = \frac{\Omega}{\Theta} \approx 1$$
+*(Where $\Theta$ is the system's inherent compensation threshold)*
+
+---
+
+## 🗂 Project Structure
+* **`/Theory-Docs/`**: Permanent academic records (PDF).
+    * `System_Dynamics_Stability_Theory_Full.pdf` (Primary Mathematical Framework)
+    * `Existential_Patchism_4.0.pdf` (Metaphysical & Ontological Framework)
+* **`/Metadata/`**: Abstract and keywords in both English and Chinese.
+
+---
+
+## 🔗 Zenodo Permanent Records
+For academic citations, please use the following DOI links:
+* **System Dynamics Stability Theory:** [https://doi.org/10.5281/zenodo.19324760](https://doi.org/10.5281/zenodo.19324760)
+* **Existential Patchism 4.0:** [https://doi.org/10.5281/zenodo.19324853](https://doi.org/10.5281/zenodo.19324853)
+
+---
+
+## 🤝 Collaboration & Feedback
+The author welcomes verification, criticism, and cross-disciplinary dialogue from fields including **Physics, Philosophy, Psychology, and Sociology**.
+
+* **Current Status:** Theoretical framework complete. Seeking partners for numerical simulation and empirical data verification.
+* **Contact:** [yuqinghong2002@gmail.com](mailto:yuqinghong2002@gmail.com)
+
+## 📜 License & Copyright
+© 2026 Yu Qinghong. All Rights Reserved.
+The theoretical content is licensed under **CC BY 4.0**. Commercial use or derivative publications require written permission from the author.
+
+## 🎓 如何引用 (How to Cite)
+
+如果您在研究中引用了本理论，请参考以下格式：
+If you use this theory in your research, please cite it as follows:
+
+### 1. 系统动力学稳定性理论 (System Dynamics Stability Theory)
+> **Yu, Q. (2026).** *System Dynamics Stability Theory: A Cost-Patch Framework for Adaptive System Evolution and Monitoring*. Zenodo. 
+> **DOI:** [https://doi.org/10.5281/zenodo.19324760](https://doi.org/10.5281/zenodo.19324760)
+
+### 2. 存在补丁主义 4.0 (Existential Patchism 4.0)
+> **Yu, Q. (2026).** *Existential Patchism 4.0: A New Metaphysical Framework on the Relationship Between Contingency and Necessity*. Zenodo. 
+> **DOI:** [https://doi.org/10.5281/zenodo.19324853](https://doi.org/10.5281/zenodo.19324853)
+> 
+
 # Golden-Narrow-Slit-Theory
 黄金窄缝理论——一种关于偶然与必然关系的新形而上学框架
 
